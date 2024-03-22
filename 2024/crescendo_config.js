@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023tnkn",
+      "defaultValue": "2023FIM1",
       "required": "true"
     },
     { "name": "Match Level",
@@ -85,10 +85,6 @@ var config_data = `
     },
     { "name": "Speaker Scores",
       "code": "tss",
-      "type": "counter"
-    },
-    { "name": "Times Amplified",
-      "code": "tta",
       "type": "counter"
     },
     { "name": "Pickup From",
