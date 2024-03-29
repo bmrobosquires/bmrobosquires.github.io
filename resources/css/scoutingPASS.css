@@ -224,6 +224,11 @@ input {
     background-color: white;
 }
 
+input[type="checkbox"], input[type="radio"] {
+    height: 35px;
+    width: 35px;
+}
+
 .title {
     width: "50%";
     text-align: right;
