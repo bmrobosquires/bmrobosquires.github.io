@@ -70,7 +70,7 @@ var config_data = `
     },
     { "name": "Missed Speaker",
       "code": "tms",
-      "type": "counter
+      "type": "counter"
     },
     { "name": "Pickup From",
       "code": "tpu",
