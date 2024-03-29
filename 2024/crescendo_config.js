@@ -108,7 +108,7 @@ var config_data = `
     { "name": "Played Defense?",
       "code": "def",
       "type": "bool"
-    }
+    },
     { "name": "Died/Immobilized",
       "code": "die",
       "type": "bool"
