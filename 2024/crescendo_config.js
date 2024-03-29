@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024FIM1",
+      "defaultValue": "2024miken",
       "required": "true"
     },
     { "name": "Match #",
