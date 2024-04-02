@@ -117,10 +117,6 @@ var config_data = `
       "code": "tip",
       "type": "bool"
     },
-    { "name": "Dropped Notes (>2)",
-      "code": "dn",
-      "type": "bool"
-    },
     { "name": "Comments",
       "code": "co",
       "type": "text",
