@@ -57,7 +57,12 @@ var config_data = `
     { "name": "Speaker Scores",
       "code": "ass",
       "type": "counter"
+    },
+    { "name": "Missed Speaker",
+      "code": "ams"
+      "type": "counter"
     }
+    
   ],
   "teleop": [
     { "name": "Amp Scores",
