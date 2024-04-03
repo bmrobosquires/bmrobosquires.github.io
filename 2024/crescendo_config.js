@@ -59,7 +59,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Missed Speaker",
-      "code": "ams"
+      "code": "ams",
       "type": "counter"
     }
     
